@@ -1,0 +1,1 @@
+Various Human computer interfaces are developed based with the help of image processing techniques
